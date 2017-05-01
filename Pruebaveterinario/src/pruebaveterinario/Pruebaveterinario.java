@@ -25,5 +25,7 @@ int valor;
     public int getValor(){
         return valor;
     }
-    
+    public int getFunciona(){
+        return "Funciona";
+    }
 }
