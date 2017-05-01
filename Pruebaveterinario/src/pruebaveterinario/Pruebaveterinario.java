@@ -22,5 +22,8 @@ int valor;
     public String getNombre(){
         return nombre;
     }
+    public int getValor(){
+        return valor;
+    }
     
 }
